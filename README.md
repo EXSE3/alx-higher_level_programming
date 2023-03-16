@@ -1,5 +1,8 @@
-# Holberton School High Level Programming
+# Welcome to the Python world !
 
-This repository contains all of the projects done for Holberton School's High Level Programming track. All of the projects are written in ython. The projects follow a styling guide provided for students lovingly known as <a href="https://github.com/holbertonschool/Betty">Betty</a>. All projects are created to run on Ubuntu 20.04 LTS using python3
+After 3 months of C, you will start Python today. First projects are more "C-oriented" - no tricks, no funky syntax - simple! If you've already played with Python, don't worry, funny things are coming. Also, with Python (and the majority of higher level languages), you will find ten ways to do the same thing. Some tasks are expecting only one implementation, but other tasks will have multiple possible implementations. Like C, Python also has a linter / style guide like Betty, called PEP8, also now known as PyCode. At Holberton, we are not using PyCode (yet) because it's stricter than PEP8. Don't worry if you see a warning when you are running PEP8, you can ignore it.
 
-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
+Enjoy !
+
+
+ - Guillaume, CTO at Holberton.
